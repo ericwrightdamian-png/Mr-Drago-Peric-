@@ -1,0 +1,6 @@
+{
+  "name": "Enhance Your Wealth - Investment Portfolio",
+  "description": "Secure investment portfolio portal for Drago Peric with encrypted transactional database, pending deposit tracking, and JWT authentication.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
